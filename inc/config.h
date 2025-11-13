@@ -167,6 +167,6 @@
  *  \brief
  *      Set it to 1 if you want to enable Link Cable Protocol functions (written by BlodTor)
  */
-#define MODULE_LINK_CABLE       0
+#define MODULE_LINK_CABLE       1
 
 #endif // _CONFIG_
